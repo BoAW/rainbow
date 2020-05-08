@@ -1,0 +1,2 @@
+# rainbow
+JavaScript library
